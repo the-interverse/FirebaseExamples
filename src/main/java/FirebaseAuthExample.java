@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class FirebaseAuthExample {
 
-    private static final String API_KEY = "AIzaSyA7152q13udjy3Z5mxNNH1BX7EkmE2GFCQ";
+    private static final String API_KEY = "";
 
     // Sign up a new user with email and password
     public static void signUpUser(String email, String password) throws Exception {
