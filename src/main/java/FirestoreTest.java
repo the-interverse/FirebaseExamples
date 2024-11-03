@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 public class FirestoreTest {
 
-    private static final String API_KEY = "AIzaSyA7152q13udjy3Z5mxNNH1BX7EkmE2GFCQ";
-    private static final String PROJECT_ID = "quizcraft-eb0a5";
+    private static final String API_KEY = "";
+    private static final String PROJECT_ID = "";
 
     // Method to add a document to Firestore
     public static void addDocument() throws Exception {
